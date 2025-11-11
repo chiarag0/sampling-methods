@@ -17,7 +17,7 @@ The following libraries are required to correctly run all code cells:
 - scipy  
 - ipywidgets  
 - IPhyton
-- arspy  # installed manually
+- arspy  _(installed manually)_
 
   
 
@@ -28,7 +28,3 @@ As it is quite dated, the ARSpy library can't be installed via `pip` due to comp
 1. Manually download the library from [PyPI](https://pypi.org/project/ARSpy/)
 2. Extract the contents and navigate to the sub-folder `arspy`
 3. Copy it directly into the same directory as this Jupyter Notebook (be careful to copy it as it is and not nested inside of other folders)
-
-
-
-Vuoi che ti aggiunga subito dopo anche una piccola sezione “Tested environment” con Python version, OS e Jupyter? Sarebbe utile per completezza del README.
